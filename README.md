@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MPAC
+- 🔭 I’m currently a CSE student
 - 🌱 I’m currently learning nodejs,express
 - 💬 Ask me about HTML,CSS & JavaScript
 - 📫 How to reach me: Email,Twitter
