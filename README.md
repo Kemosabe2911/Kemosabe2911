@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on MPAC
 - 🌱 I’m currently learning nodejs,express
 - 💬 Ask me about HTML,CSS & JavaScript
-- 📫 How to reach me: Email
+- 📫 How to reach me: Email,Twitter
 
 <!--
 **Kemosabe2911/Kemosabe2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
