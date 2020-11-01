@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a CSE Junior 
-- 🌱 I’m currently learning nodejs,express
+- 🌱 I’m currently learning React
 - 💬 Ask me about HTML,CSS & JavaScript
 - 📫 How to reach me: Email,Twitter
 
