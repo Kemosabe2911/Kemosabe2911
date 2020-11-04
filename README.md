@@ -11,15 +11,17 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: <img src="https://img.icons8.com/android/24/000000/linkedin.png"/>
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/prince_stevin
+[2]: https://www.linkedin.com/in/heinz-martin/
 
 <!--
 **Kemosabe2911/Kemosabe2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
