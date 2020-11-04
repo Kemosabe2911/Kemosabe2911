@@ -21,7 +21,7 @@ You can find me on [![Twitter][1.2]][1],[![LinkedIn][2.2]][2].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/prince_stevin
-[2]: https://www.linkedin.com/in/heinz-martin/
+[2]: www.linkedin.com/in/stevin-prince-b07092183
 
 <!--
 **Kemosabe2911/Kemosabe2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
