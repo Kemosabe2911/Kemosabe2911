@@ -19,7 +19,7 @@ You can find me on [![Twitter][1.2]][1].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/
+[1]: https://twitter.com/prince_stevin
 
 <!--
 **Kemosabe2911/Kemosabe2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
