@@ -6,7 +6,7 @@
 - 📫 How to reach me: Email,Twitter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemosabe2911&layout=compact&theme=algolia)](https://github.com/kemosabe2911/github-readme-stats)
-[![Kemosabe2911's github stats](https://github-readme-stats.vercel.app/api?username=kemosabe2911&theme=algolia&show_icons=true?hide=Total Issues,Contributed To)](https://github.com/kemosabe2911/github-readme-stats)
+[![Kemosabe2911's github stats](https://github-readme-stats.vercel.app/api?username=kemosabe2911&theme=algolia&show_icons=true)](https://github.com/kemosabe2911/github-readme-stats)
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemosabe2911&theme=algolia" />-->
 
 <!--
