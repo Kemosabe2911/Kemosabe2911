@@ -4,7 +4,7 @@
 - 🔭 I’m currently a CSE Junior 
 - 🌱 I’m currently learning React
 - 💬 Ask me about HTML,CSS & JavaScript
-- 📫 How to reach me: Email,Twitter
+- 📫 How to reach me: Email,Twitter,Linkedin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemosabe2911&layout=compact&theme=algolia)](https://github.com/kemosabe2911/github-readme-stats)
 [![Kemosabe2911's github stats](https://github-readme-stats.vercel.app/api?username=kemosabe2911&theme=algolia&show_icons=true&hide=issues)](https://github.com/kemosabe2911/github-readme-stats)
