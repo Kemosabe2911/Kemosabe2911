@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/Kemosabe2911/Kemosabe2911/main/Kemosabe2911.png">
 # Hello, folks! <img src="https://raw.githubusercontent.com/Kemosabe2911/Kemosabe2911/main/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/Kemosabe2911/Kemosabe2911/main/Kemosabe2911.png">
+
 <!--### Hi there 👋-->
 
 - 🔭 I’m currently a CSE Junior 
