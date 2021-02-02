@@ -4,6 +4,7 @@
 <!--### Hi there 👋-->
 
 - 🔭 I’m currently a CSE Junior 
+- 😄 I'm a Full Stack Developer. Contact me for any project requirements.
 - 🌱 I’m currently learning React
 - 💬 Ask me about HTML,CSS & JavaScript
 - 📫 How to reach me: Email,Twitter,Linkedin
@@ -14,7 +15,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
+You can find me on [![Twitter][1.2]][1]  [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
