@@ -3,7 +3,7 @@
 
 <!--### Hi there 👋-->
 
-- 🔭 I’m currently a CSE Junior 
+- 🔭 I’m currently a CSE Senior 
 - 😄 I'm a Full Stack Developer. Contact me for any project requirements.
 - 🌱 I’m currently learning React
 - 💬 Ask me about HTML,CSS & JavaScript
