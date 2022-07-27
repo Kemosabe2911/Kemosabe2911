@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a Associate Softtware Engineer Trainee 
 - 😄 I'm a Full Stack Developer. Contact me for any project requirements.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Go
 - 💬 Ask me about HTML,CSS & JavaScript
 - 📫 How to reach me: Email,Twitter,Linkedin
 
