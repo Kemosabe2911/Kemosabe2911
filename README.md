@@ -3,7 +3,7 @@
 
 <!--### Hi there 👋-->
 
-- 🔭 I’m currently a Associate Softtware Engineer Trainee 
+- 🔭 I’m currently a Associate Softtware Engineer 
 - 😄 I'm a Full Stack Developer. Contact me for any project requirements.
 - 🌱 I’m currently learning Go
 - 💬 Ask me about HTML,CSS & JavaScript
